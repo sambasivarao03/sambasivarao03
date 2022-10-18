@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Samba siva rao Ravula
+- 👀 I’m interested in backend programming
+- 🌱 I’m currently a student at ALIET and
+-  learning several languages toimprove my coding skills
+- 📫 you can reache me through 
+- mail id: samba.ravula02@gmail.com
+- twitter id: @rssr_naidu1
